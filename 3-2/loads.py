@@ -6,3 +6,5 @@ print (j)
 str = '{"name": "Maria", "age": 20, "occupation": null}'
 j = json.loads(str)
 print (j)
+print (isinstance(j,dict))
+print ("age", j["age"])
