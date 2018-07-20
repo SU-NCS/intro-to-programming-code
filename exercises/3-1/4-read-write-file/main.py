@@ -47,3 +47,11 @@ for line in number_file:
 # 5. dump file contents on screen
 big_file = open("big_file.txt","r")
 print(big_file.readlines())
+big_file.close()
+
+# or
+
+big_file = open("big_file.txt","r")
+for line in big_file:
+  print(line)
+big_file.close()
