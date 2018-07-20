@@ -1,0 +1,72 @@
+https://en.wikiquote.org/wiki/Computers
+On two occasions, I have been asked [by members of Parliament], "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?"...I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
+Charles Babbage, Passages from the Life of a Philosopher (1864), p. 67
+It makes sense to examine Plato and pottery together in order to understand the Greek world, Descartes and the mechanical clock together in order to understand Europe in the seventeenth and eighteenth centuries. In the same way, it makes sense to regard the computer as a technological paradigm for the science, the philosophy, even the art of the coming generation.
+Jay David Bolter, Turing's Man: Western Culture in the Computer Age (1984)
+The clock has been the center of Western technology since its invention in the Middle Ages. Computer technology too finds it indispensable, although it has changed the clock from a mechanical device to a wholly electronic one.
+Jay David Bolter, Turing's Man: Western Culture in the Computer Age (1984)
+In Hollywood, they think drawn animation doesn't work anymore, computers are the way. They forget that the reason computers are the way is that Pixar makes good movies. So everybody tries to copy Pixar. They're relying too much on the technology and not enough on the artists.
+Tim Burton in: Tim BurtonBiography, IMDb
+I have bought this wonderful machine- a computer. Now I am rather an authority on gods, so I identified the machine- it seems to me to be an Old Testament god with a lot of rules and no mercy.
+Joseph Campbell, The Power of Myth (1988), I, p. 24 ISBN 0-385-41886-8
+Trust The Computer. The Computer is your friend.
+"Computer's Credo", Paranoia
+To an outsider, the most significant innovation in the global warming controversy is the overt reliance that is being placed on models. Back in the days of nuclear winter, computer models were invoked to add weight to a conclusion: “These results are derived with the help of a computer model.” But now, large-scale computer models are seen as generating data in themselves. No longer are models judged by how well they reproduce data from the real world—increasingly, models provide the data. As if they were themselves a reality. And indeed they are, when we are projecting forward.
+This fascination with computer models is something I understand very well. Richard Feynman called it a disease. I fear he is right.
+Michael Crichton, lecture at the California Institute of Technology, (January 17, 2003).
+If you don't know anything about computers, just remember that they are machines that do exactly what you tell them but often surprise you in the result.
+Richard Dawkins, The Blind Watchmaker (1986), III, p. 50 ISBN 0-393-31570-3
+The simple fact is that without supporting directives or a mechanism for feedback, security is defined differently by each person and verified by no one. There is no metric for compliance with a "culture", and a "culture of security" is overridden by a culture of "get the job done" every time. If there are rules, write them down. If technology is put in place to implement or monitor the rules, write that down too. If people break the rules, follow up. If the rules prevent legitimate business from getting done, change them. It's that simple.
+Espenschied, Jon (14 August 2007). "Ten claims that scare security pros". Computerworld (Infoworld.com). Retrieved on 2007-08-14.
+It always bothers me that, according to the laws as we understand them today, it takes a computing machine an infinite number of logical operations to figure out what goes on in no matter how tiny a region of space, and no matter how tiny a region of time. How can all that be going on in that tiny space? Why should it take an infinite amount of logic to figure out what one tiny piece of space/time is going to do? So I have often made the hypotheses that ultimately physics will not require a mathematical statement, that in the end the machinery will be revealed, and the laws will turn out to be simple, like the chequer board with all its apparent complexities.
+Richard Feynman The Character of Physical Law, page 57.
+Spock: Computers make excellent and efficient servants, but I have no wish to serve under them. Captain, a starship also runs on loyalty to one man, and nothing can replace it or him.
+Star Trek: The Original Series, The Ultimate Computer, screenplay by D. C. Fontana, story by Laurence N. Wolf
+"So computers are tools of the devil?" thought Newt. He had no problem believing it. Computers had to be the tools of somebody, and all he knew for certain was that it definitely wasn't him.
+Neil Gaiman and Terry Pratchett, Good Omens, chapter: Saturday, page 313 (Corgi Books, 1991, ISBN 0-552-13703-0
+Where a calculator like the ENIAC today is equipped with 18,000 vacuum tubes and weighs 30 tons, computers in the future may have only 1,000 vacuum tubes and perhaps weigh only 1½ tons.
+Andrew Hamilton, "Brains that Click", Popular Mechanics 91 (3), March 1949, (pp. 162 et seq.) at p. 258.
+What do such machines really do? They increase the number of things we can do without thinking. Things we do without thinking — there's the real danger.
+Frank Herbert, God Emperor of Dune
+Computers are good at following instructions, but not at reading your mind.
+Donald Knuth (1984) cited in: Jorge Angeles (2011) Dynamic Response of Linear Mechanical Systems. p. 419
+These machines have no common sense; they have not yet learned to "think," and they do exactly as they are told, no more and no less. This fact is the hardest concept to grasp when one first tries to use a computer.
+Donald Knuth Knuth, Donald (1968). "Preface". The Art of Computer Programming, Volume 1: Fundamental Algorithms. Addison-Wesley.
+The Analytical Engine has no pretentions whatever to originate anything. It can do whatever we know how to order it to perform.
+Ada Lovelace, An Account of the Analytical Engine, 1842, reprinted in Faster than Thought, ed. B.V. Bowden (Pitman, 1953), cited in Andrew Hodges Alan Turing: The Enigma of Intelligence (Unwin 1985) (probably the first known instance of "Computers can only do what they are programmed to do")
+Dare to be gorgeous and unique. But don't ever be cryptic or otherwise unfathomable. Make it unforgettably great.
+Robert J. Mical, Amiga Intuition Reference Manual, 1986, ISBN 0201110768, p. 231
+Do you know how many times we've come close to world war three over a flock of geese on a computer screen?
+The Joker, Batman The Killing Joke, written by Alan Moore
+Today’s computers are not even close to a 4-year-old human in their ability to see, talk, move, or use common sense. One reason, of course, is sheer computing power. It has been estimated that the information processing capacity of even the most powerful supercomputer is equal to the nervous system of a snail—a tiny fraction of the power available to the supercomputer inside [our] skull.
+Steven Pinker, How Unique You Are!; Is There a Creator Who Cares About You?, published by Jehovah's Witnesses.
+Never underestimate the bandwidth of a station wagon full of tapes hurtling down the highway.
+Andrew S. Tanenbaum, Computer Networks 3rd Ed., 1996, Chapter 2 page 83
+An adversary capable of implanting the right virus or accessing the right terminal can cause massive damage.
+George Tenet, director of the U.S. Central Intelligence Agency. Cited in Awake! magazine 2001, 5/22.
+A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+Alan Turing Computing Machinery and Intelligence (1950) [1]
+It used to be said of a man who had suffered a catastrophic setback in his line of work that he had been handed his head on a platter. We are being handed our heads with tweezers now.
+Kurt Vonnegut, Timequake (1997), Ch. 9, p. 38. ISBN 0-425-16434-9
+The danger of computers becoming like humans is not as great as the danger of humans becoming like computers.
+Konrad Zuse (2005) in: Hersfelder Zeitung. Nr. 212, 12. September 2005.
+Software
+Main article: Software
+Anyone who slaps a 'this page is best viewed with Browser X' label on a Web page appears to be yearning for the bad old days, before the Web, when you had very little chance of reading a document written on another computer, another word processor, or another network.
+Tim Berners-Lee (in Technology Review, July 1996)
+Einstein argued that there must be simplified explanations of nature, because God is not capricious or arbitrary. No such faith comforts the software engineer.
+Fred Brooks, essay "No Silver Bullet", 1987
+Interviewer: Is studying computer science the best way to prepare to be a programmer? Bill Gates: No. the best way to prepare is to write programs, and to study great programs that other people have written. In my case, I went to the garbage cans at the Computer Science Center and I fished out listings of their operating system. You got to be willing to read other people's code, then write your own, then have other people review your code. You've got to want to be in this incredible feedback loop where you get the world-class people to tell you what you're doing wrong.
+Bill Gates cited in: "Programmers at Work: Interviews With 19 Programmers Who Shaped the Computer Industry", Tempus, by Susan Lammers (Editor)
+Around computers it is difficult to find the correct unit of time to measure progress. Some cathedrals took a century to complete. Can you imagine the grandeur and scope of a program that would take as long?
+SIGPLAN, Association for Computing Machinery (1992) "Epigrams in Programming", September 1982
+A refund for defective software might be nice, except it would bankrupt the entire software industry in the first year.
+Andrew S. Tanenbaum, Computer Networks, 2003, Introduction, page 14
+Computer games
+Main article: Video games
+The only legitimate use of a computer is to play games.
+Eugene Jarvis, Supercade, MIT Press, p.14 ISBN: 0-262-02492-6
+Programming
+Main article: Programming
+The primary duty of an exception handler is to get the error out of the lap of the programmer and into the surprised face of the user.
+Verity Stob (11 January 2006). "Catch as catch can: A light-hearted look at exception handling". The Register. Retrieved on 2007-07-04.
