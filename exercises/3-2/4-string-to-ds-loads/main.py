@@ -1,4 +1,4 @@
-# A string with underlying JSON format can be turns into a dictionary
+# A string with underlying JSON format can be turned into a dictionary
 def type_test(test_var):
   if (isinstance(test_var,list)):
     return "list"

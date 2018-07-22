@@ -33,7 +33,7 @@ print("dictionary",dictionary)
 print("dictionary is a ",type_test(dictionary))
 
 # 4. experiment with dumps and loads where you are not writing to disk
-# but serializing/deserializing in code
+# but serializing/deserializing in code - does the decoded = the original?
 card_hand = ("A","K",10)
 encoded_hand = json.dumps(card_hand)
 decoded_hand = json.loads(encoded_hand)
