@@ -1,0 +1,36 @@
+import turtle
+wn = turtle.Screen()
+al=turtle.Turtle()
+ay=turtle.Turtle()
+ap=turtle.Turtle()
+tri=turtle.Turtle()
+ay.speed (0)
+al.speed (0)
+ap.speed (0)
+tri.speed (0)
+tri.penup()
+tri.left(90)
+tri.forward(-100)
+tri.right(90)
+tri.pendown()
+for triangle in range(3):
+	tri.forward(60)
+	tri.left(120)
+for square in range(4):
+	al.forward (50)
+	al.left (90)
+ay.penup ()
+ay.forward (100)
+for octagon in range(8):
+  ay.pendown ()
+  ay.forward (50)
+  ay.left (45)
+ap.penup ()
+ap.backward (50)
+for hexagon in range(6):
+  ap.pendown()
+  ap.backward (50)
+  ap.right (60)
+input("exercise 3.5 press any key to continue")
+for CLEAR in range(50):
+  print("")

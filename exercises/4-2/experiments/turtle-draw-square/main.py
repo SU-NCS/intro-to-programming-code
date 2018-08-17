@@ -1,0 +1,15 @@
+import turtle
+tp = turtle.pos()
+print("starting position",tp)
+my_start = (0, 10)
+wn = turtle.Screen()
+al=turtle.Turtle()
+al.penup()
+al.setx(my_start[0])
+al.sety(my_start[1])
+al.pendown()
+al.speed (0)
+for square in range(4):
+	al.forward (50)
+	al.left (90)
+input("press any key to continue")

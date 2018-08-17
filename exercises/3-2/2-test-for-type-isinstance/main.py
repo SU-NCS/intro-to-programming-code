@@ -28,14 +28,17 @@ def type_test(test_var):
   elif (isinstance(test_var,dict)):
     return "dict"
   elif (isinstance(test_var,str)):
-    return "dict" 
+    return "string" 
   elif (isinstance(test_var,int)):
-    return "dict"
+    return "integer"
   elif (isinstance(test_var,bool)):
-    return "dict"
+    return "boolean"
   else:
     return "NA" 
 
 #test function
 myvar = [1,2,3]
 print ("myvar is a",type_test(myvar))
+
+myvar = "hello"
+print ("")
